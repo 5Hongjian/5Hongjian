@@ -2,7 +2,7 @@
 - 👀 I’m interested in basketball🏀, music🎵
 - 🌱 I’m currently learning statistics, machine learning, deep learning
 - 📫 How to reach me hw67@illinois.edu/hjw101900@gmail.com
-- 😄 Pronouns: Attentive, empathetic, responsible
+- 😄 Pros: Attentive, empathetic, responsible
 
 <!---
 5Hongjian/5Hongjian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
