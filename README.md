@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @5Hongjian
-- 👀 I’m interested in basketball🏀, music🎵
+- 👀 I’m interested in basketball🏀, ping-pong🏓️, and music🎵
 - 🌱 I’m currently learning statistics, machine learning, deep learning
 - 📫 How to reach me hw67@illinois.edu/hjw101900@gmail.com
 - 😄 I see my self: Attentive, empathetic, responsible
